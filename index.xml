@@ -22,10 +22,10 @@
 
 
 <p>Hockey in the Big Ten Conference is a conference you typically see dominating in college hockey. With strong programs and strong traditions, the Big Ten produces some top teams in the nation. Schools like the Minnesota Gophers representing the “State of Hockey” is a program often expected to dominate.</p>
-<p>The Big Ten Conference has a total of 23 Frozen Four championships which shows how successful they are. Michigan Wolverines stands out the most with nine national championships and multiple tournament appearances. Michigan has proven to be one of the most successful hockey teams in the Big Ten.</p>
+<p>The Big Ten Conference has a total of 23 Frozen Four championships which shows how successful they are. Michigan Wolverines stand out the most with nine national championships and multiple tournament appearances. Michigan has proven to be one of the most successful hockey teams in the Big Ten.</p>
 <p>Success in the past doesn’t always determine who the best team is today. Each team is so overly competitive and the programs continue to grow each year. With each program consistently performing and growing stronger helps prove that a new team could dominate every year. But is that actually the case?</p>
 <p>Lets see who has dominated in the past four years.</p>
-<p>Using NCAA stats we can analyze who can find the back of the net the most and who you want on faceoffs while comparing who is dominating in faceoffs. This also allows us to see if grade matters and how the experience levels differ.</p>
+<p>Using NCAA stats we can analyze who can find the back of the net the most and who you want on face-offs while comparing who is dominating in face-offs. This also allows us to see if grade matters and how the experience levels differ.</p>
 <p>Ultimately the question to answer: which team dominates the Big Ten Conference?</p>
 <div class="cell">
 <details class="code-fold">
@@ -774,10 +774,10 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>T.J Hughes of Michigan is given opportunities in the circle the most, however he might not be who you want in the circle. He has the most faceoffs taken in the Big Ten but he is losing around 65% of them. Danny Nelson of Notre Dame is in the same boat. Both players receive the opportunities but they are not capitalizing enough with gaining possession.</p>
-<p>Karsen Dorwart of Michigan State is who they want in the dot. He is one of a few players who is winning over 50% of his faceoffs. He is the third highest in the Big Ten for faceoffs taken.</p>
-<p>Nicolas Muller of Michigan State has the highest percentage of faceoffs won however he has taken the least amount of faceoffs.</p>
-<p>Faceoff gains possession which leads to goals, which ultimately leads to the talent on your roster. How old is your roster? Do coaches look at the freshmen class for goals or do they rely on the upperclassmen to find the back of the net?</p>
+<p>T.J Hughes of Michigan is given opportunities in the circle the most, however he might not be who you want in the circle. He has the most face-offs taken in the Big Ten but he is losing around 65% of them. Danny Nelson of Notre Dame is in the same boat. Both players receive the opportunities but they are not capitalizing enough with gaining possession.</p>
+<p>Karsen Dorwart of Michigan State is who they want in the dot. He is one of a few players who is winning over 50% of his face-offs. He is the third highest in the Big Ten for face-offs taken.</p>
+<p>Nicolas Muller of Michigan State has the highest percentage of face-offs won however he has taken the least amount of faceoffs.</p>
+<p>Face-off gains possession which leads to goals, which ultimately leads to the talent on your roster. How old is your roster? Do coaches look at the freshmen class for goals or do they rely on the upperclassmen to find the back of the net?</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
